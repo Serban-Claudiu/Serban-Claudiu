@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serban-Claudiu
 - 👀 I’m interested in ... Front-web Development
-- 🌱 I’m currently learning ... HTML, CSS, JavaScrypt
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ... Website creation
 - 📫 How to reach me ... serban@bistriceanu.ro
 
